@@ -1,0 +1,6 @@
+//rename this file to aws.json and add your credentials for aws s3
+{
+  "accessKeyId": "",
+  "secretAccessKey": "",
+  "region": "eu-central-1"
+}

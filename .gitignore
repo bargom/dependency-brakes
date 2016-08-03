@@ -1,0 +1,11 @@
+*.njsproj
+*.bak
+*.orig
+*.bat
+.project
+.idea
+.tmp
+*.log
+aws.json
+
+node_modules/
