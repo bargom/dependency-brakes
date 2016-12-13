@@ -1,7 +1,17 @@
 {
-  "name": "node-mongo-test",
-  "version": "0.0.0",
-  "private": true,
+  "name": "dependency-brakes",
+  "version": "0.0.1",
+  "description": "High level circuit breaker for controlling and failover in a chain of dependencies",
+  "main": "CircuitBreakers/DependencyBrakes.js",
+  "author": {
+    "name": "Baris Gomleksizoglu",
+    "email": "baris.gomlek@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "bargom/dependency-brakes"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
