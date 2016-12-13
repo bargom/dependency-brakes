@@ -18,7 +18,7 @@ It CAN also stream the event on port 8091, you need to configure dashboard to li
 
 #### Examples ####
 
-##### Memory > Mongo > Dummy Dependency Order #####
+##### Memory > Mongo > Dummy Dependency Order with Promises #####
 ```javascript
 const MongoBrakes = require('./CircuitBreakers/MongoBrakes');
 const DummyBrakes = require('./CircuitBreakers/DummyBrakes');
@@ -63,6 +63,9 @@ setInterval(loop3, 1000);
 ```
 ##### Other Examples #####
 [test-mem-mongo-s3.js](/test-mem-mongo-s3.js)
+[test-mem-mongo-s3.js](/test-mem-mongo-s3.js)
+[test-mem-mongoCursor-dummy.js](/test-mem-mongoCursor-dummy.js)
+[test-mem-mongoCursor2-dummy2.js](/test-mem-mongoCursor2-dummy2.js)
 
 #### Dashboard ####
 
