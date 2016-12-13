@@ -1,6 +1,6 @@
 {
   "name": "dependency-brakes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "High level circuit breaker for controlling and failover in a chain of dependencies",
   "main": "CircuitBreakers/DependencyBrakes.js",
   "author": {
