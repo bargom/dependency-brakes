@@ -61,6 +61,8 @@ var loop3 = function() {
 console.log("-----Testing the MongoBrakes with fallback as promise-------");
 setInterval(loop3, 1000);
 ```
+##### Other Examples #####
+[test-mem-mongo-s3.js](/test-mem-mongo-s3.js)
 
 #### Dashboard ####
 
