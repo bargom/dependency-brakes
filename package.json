@@ -25,7 +25,7 @@
     "express": "~4.13.4",
     "hystrixjs": "0.0.3",
     "memory-cache": "^0.1.6",
-    "mongodb": "^2.1.18",
+    "mongodb": "^3.6.1",
     "morgan": "~1.7.0",
     "q": "^1.4.1",
     "serve-favicon": "~2.3.0",
